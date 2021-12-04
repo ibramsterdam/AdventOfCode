@@ -5,7 +5,7 @@ public class Main {
 //        new Day1("1");
 //        new Day2("2");
 //        new Day3("3");
-        new Day3("4");
+          new Day4();
 
     }
 }
