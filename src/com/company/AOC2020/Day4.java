@@ -10,7 +10,7 @@ public class Day4 extends PuzzleTemplate{
 
     @Override
     void puzzleOne(List<String> list) {
-        System.out.println("Hello");
+        System.out.println("test");
 
     }
 
